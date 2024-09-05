@@ -1,34 +1,20 @@
 {
-    "paises": [
+    "memes": [
         {
-            "nombre": "Estados Unidos",
-            "capital": "Washington D.C.",
-            "poblacion": 331002651,
-            "idioma": "Inglés"
+            "id": 1,
+            "name": "meme1",
+            "url": "https://picsum.photos/800/600"
         },
         {
-            "nombre": "Canadá",
-            "capital": "Ottawa",
-            "poblacion": 37742154,
-            "idioma": "Inglés, Francés"
+            "id": 2,
+            "name": "meme3",
+            "url": "https://picsum.photos/800/600"
         },
         {
-            "nombre": "México",
-            "capital": "Ciudad de México",
-            "poblacion": 128932753,
-            "idioma": "Español"
-        },
-        {
-            "nombre": "Brasil",
-            "capital": "Brasilia",
-            "poblacion": 212559417,
-            "idioma": "Portugués"
-        },
-        {
-            "nombre": "China",
-            "capital": "Pekín",
-            "poblacion": 1439323776,
-            "idioma": "Chino"
+            "id": 3,
+            "name": "meme3",
+            "url": "https://picsum.photos/800/600"
         }
+
     ]
 }
